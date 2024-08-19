@@ -164,7 +164,7 @@ defaults:
   home:
     heading: "AI for Nature"
     subheading: "Every record about my footprints"
-    banner: assets/images/banners/filip-zrnzevic-QsWG0kjPQRY-unsplash.jpg
+    banner: "assets/images/banners/filip-zrnzevic-QsWG0kjPQRY-unsplash.jpg"
   
 
 # Banner default settings

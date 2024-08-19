@@ -40,7 +40,7 @@ author: JinAh Kim
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Copyright (cleft) 2017-{currentYear} {author}"
+copyright: "Copyright (cleft) 2024-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   This is tech blog for my private study. 
@@ -160,10 +160,10 @@ lang: "ko"  # default lang is en
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+defaults:
+  home:
+    heading: "AI for Nature"
+    subheading: "Every record about my footprints"
 #     banner: "Your image url"
 
 # Banner default settings

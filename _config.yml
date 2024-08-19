@@ -47,7 +47,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My primary topic is Visual intelligence (image recognition / computer vision / image processing).
   
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aifornature.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
@@ -160,11 +160,11 @@ lang: "ko"  # default lang is en
 #   - about.md
 
 # Page default value
-# defaults:
-  # home:
-  #   heading: "AI for Nature"
-  #   subheading: "Every record about my footprints"
-#     banner: "Your image url"
+defaults:
+  home:
+    heading: "AI for Nature"
+    subheading: "Every record about my footprints"
+#    banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also

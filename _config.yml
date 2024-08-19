@@ -164,8 +164,7 @@ defaults:
   home:
     heading: "AI for Nature"
     subheading: "Every record about my footprints"
-   # banner: 
-   # <a href="https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%88%B2%EC%9D%98-%ED%95%AD%EA%B3%B5-%EC%82%AC%EC%A7%84-QsWG0kjPQRY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>의<a href="https://unsplash.com/ko/@filipz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Filip Zrnzević</a>
+    banner: assets/images/banners/filip-zrnzevic-QsWG0kjPQRY-unsplash.jpg
   
 
 # Banner default settings

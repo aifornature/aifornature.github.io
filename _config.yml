@@ -40,7 +40,7 @@ author: JinAh Kim
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Copyright (cleft) 2024-{currentYear} {author}"
+copyright: "Copyright (cleft) 2022-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   This is tech blog for my private study. 

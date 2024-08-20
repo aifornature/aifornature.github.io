@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to My github blog!
 subtitle: 블로그를 새단장했습니다!
-author: Jinah Kim
+author: JinAh Kim
 categories: etc.
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4

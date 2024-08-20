@@ -14,7 +14,8 @@ tags: [the environment, 프로메데우스 스타트업 해커톤]
   - 서비스명  : CPR(Connect Planet Recycle)
   - 팀 아이디어 : 재활용 쓰레기 분리수거 서비스 개발
   - "진지도" 해커톤 링크 : [https://aifactory.space/competition/detail/2282][2]
-  - "진지도" 협업 기록 github README 
+  - "진지도" 협업 기록 github README
+    
     ![recycle-project readme](https://user-images.githubusercontent.com/108795647/221893462-31c12d5c-6c60-4a11-8865-258959b42b87.png)
 
 <br/>
@@ -42,6 +43,7 @@ tags: [the environment, 프로메데우스 스타트업 해커톤]
 
   4. **최종 파이프라인 연결 및 구축**
         - 파이프라인 모듈명 : ***pipline***
+          
         ![recycle-pipline](https://user-images.githubusercontent.com/108795647/221893314-ae3d8f54-1162-44ee-9ab0-ea8641079ffa.png)
 
 <br/>

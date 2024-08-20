@@ -3,7 +3,7 @@ layout: post
 title: 프로메데우스 스타트업 해커톤_1
 subtitle: 데이터수집
 categories: markdown
-tags: [the environment, 프로메데우스 스타트업 해커톤]
+tags: [the environment, 프로메데우스 스타트업 해커톤]
 ---
 
 # Summary

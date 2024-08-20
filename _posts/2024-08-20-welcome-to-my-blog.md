@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to My github blog!
 subtitle: 블로그를 새단장했습니다!
-author: JinAh Kim
+author: JinAh Kim
 categories: etc.
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
@@ -16,7 +16,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: Nothing
+tags: Nothing
 top: 1
 sidebar: []
 ---

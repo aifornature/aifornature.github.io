@@ -20,8 +20,8 @@ Thank you!<br>
 </p>
 
 <p align="center">
-  <a href="mailto:jins31651@gmail.com" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=black&link=mailto:jins31651@gmail.com" alt="Email"/>
+  <a id="email-button" style="display: inline-block; cursor: pointer;">   
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=black" alt="Email"/>
   </a>  
   <a id="github-button" style="display: inline-block; cursor: pointer;">   
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" alt="GitHub"/>
@@ -32,6 +32,10 @@ Thank you!<br>
   document.getElementById('github-button').onclick = function(event) {
     event.preventDefault(); // 기본 동작 방지
     window.location.href = 'https://github.com/aifornature'; // 즉시 이동
+  };
+  document.getElementById('email-button').onclick = function(event) {
+    event.preventDefault(); // 기본 동작 방지
+    window.location.href = 'mailto:jins31651@gmail.com'; // 즉시 이동
   };
 </script>
 

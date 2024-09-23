@@ -34,6 +34,7 @@ Thank you!<br>
     window.location.href = 'https://github.com/aifornature'; // 즉시 이동
   };
   document.getElementById('email-button').addEventListener('click', function(event) {
+    event.preventDefault(); // 이미지 확대 방지
     window.open('mailto:jins31651@gmail.com');
   });
 </script>
